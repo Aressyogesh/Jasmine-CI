@@ -1,0 +1,12 @@
+// Spec file extensions
+
+*.spec.js
+*.test.js
+
+Spec === test
+
+.js - javadcript files
+.ts - typescript files
+
+
+calculator.spec.js

@@ -1,0 +1,9 @@
+- Jasmine Spies
+- Spy Matchers
+- Spy Configuration
+- Spy on properties
+
+
+Spying on code
+
+Spies create test doubles and help us isolate dependencies for true unit testing

@@ -1,0 +1,10 @@
+What is a matcher ?
+- It is just a function which implement a boolean comparison between the 
+  actual value and the expected value.
+
+expect(/*Actual Value*/).toBe(/*Expected Value*/);
+
+A matcher is responsible for reporting to jasmine if the expectation is true or false. -> passing
+or failing spec.
+
+

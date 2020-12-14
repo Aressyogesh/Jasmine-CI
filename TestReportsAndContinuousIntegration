@@ -1,0 +1,23 @@
+- Dependency Management
+- Configure Karma Test Runner
+- Use a Headless Browser
+- Create Coverage Reports
+- Push to Version Control (GIT)
+- Build Manifest
+- Continuous Integration - CI (Automatic Test Runs)
+- Add Status Badge
+ 
+
+- Installing dependencies
+
+ npm install karma --save-dev
+ npm i jasmine-core karma-jasmine
+ npm install karma-jasmine-matchers --save-dev
+ npm install puppeteer --save-dev
+ npm install karma-chrome-launcher
+ npm install istanbul
+ npm install karma-cli --save-dev
+ npm install karma-coverage --save-dev
+
+- Commands to execute on terminal
+npm test
